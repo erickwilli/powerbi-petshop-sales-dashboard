@@ -88,5 +88,5 @@ Este projeto permitiu aprofundar conhecimentos em:
 
 Analista de Sistemas em transição para Data Analytics.
 
-- LinkedIn: ttps://www.linkedin.com/in/erickwso/
+- LinkedIn: https://www.linkedin.com/in/erickwso/
 - GitHub: https://github.com/erickwilli
